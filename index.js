@@ -1,5 +1,4 @@
 // Write your solution here!
-// Write your solution here!
 const cats = ['Milo', 'Otis', 'Garfield']
 const destructivelyAppendCat = () => {
   return cats.push('Ralph')
